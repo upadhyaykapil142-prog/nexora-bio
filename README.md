@@ -7,14 +7,13 @@ Nexora Bio is a premium, animation-driven biotechnology landing page built to de
 The project presents an original biotechnology brand experience inspired by biological intelligence, molecular systems, computational research, and scientific discovery.
 
 ---
-
 ## Live Website
 
-🌐 Live: nexora-bio-nine.vercel.app
+🌐 Live: https://nexora-bio-nine.vercel.app/
 
 ## GitHub Repository
 
-https://github.com/upadhyaykapil142-prog/nexora-bio
+💻 GitHub: https://github.com/upadhyaykapil142-prog/nexora-bio
 
 ---
 
