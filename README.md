@@ -10,7 +10,7 @@ The project presents an original biotechnology brand experience inspired by biol
 
 ## Live Website
 
-Coming soon — the deployed website link will be added here.
+nexora-bio-nine.vercel.app
 
 ## GitHub Repository
 
