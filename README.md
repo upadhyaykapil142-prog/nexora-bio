@@ -2,13 +2,17 @@
 
 ### Engineering biology through computation, molecular science, and intelligent discovery.
 
-Nexora Bio is a premium, animation-driven biotechnology landing page designed to communicate biological innovation through a combination of modern frontend engineering, scientific visual language, responsive layouts, and interactive motion.
+Nexora Bio is a premium, animation-driven biotechnology landing page built to demonstrate modern frontend engineering, creative visual design, responsive implementation, and interactive motion.
+
+The project presents an original biotechnology brand experience inspired by biological intelligence, molecular systems, computational research, and scientific discovery.
+
+---
 
 ## Live Website
 
-Coming soon — deployed version will be added here.
+Coming soon — the deployed website link will be added here.
 
-## GitHub
+## GitHub Repository
 
 https://github.com/upadhyaykapil142-prog/nexora-bio
 
@@ -16,111 +20,198 @@ https://github.com/upadhyaykapil142-prog/nexora-bio
 
 ## About the Project
 
-Nexora Bio explores how biological science, computational intelligence, and molecular engineering can work together to create meaningful scientific innovation.
+Nexora Bio is an original biotechnology landing page designed around the idea of combining:
 
-The website was designed as a real-world biotechnology company experience rather than a traditional portfolio or generic landing page.
+- Biological science
+- Computational intelligence
+- Molecular engineering
+- Artificial intelligence
+- Scientific research
+- Data-driven discovery
 
-The visual identity uses a dark scientific interface, biological green accents, grid systems, orbital elements, signal networks, and animated scientific visualizations.
+The goal was to create a premium, real-world biotechnology website rather than a generic portfolio template.
+
+The interface uses a futuristic scientific visual language with biological green accents, dark backgrounds, technical grids, orbital systems, molecular nodes, signal networks, research metrics, and animated interface elements.
+
+---
+
+## Main Sections
+
+### 01 — Innovation
+
+Introduces the Nexora Bio approach and explains how biology, computation, and engineering work together to understand complex living systems.
+
+### 02 — Technology / Research
+
+Presents the core research areas:
+
+- Computational Biology
+- Molecular Engineering
+- AI-Driven Discovery
+
+The section uses research-oriented cards, metrics, system indicators, and scientific interface elements.
+
+### 03 — Capabilities
+
+Showcases:
+
+- Biological Intelligence
+- Precision Engineering
+- Discovery Systems
+- Research Intelligence
+
+The section connects biological research with computational and engineering capabilities.
+
+### 04 — Impact
+
+Presents measurable research-oriented statistics including:
+
+- 10.8M Data Points
+- 4.2K Molecules
+- 92% Model Accuracy
+- 36+ Research Systems
+
+### 05 — The Next Frontier
+
+A final CTA section communicating the long-term vision of Nexora Bio and encouraging visitors to explore the company's scientific direction.
+
+### Footer
+
+The footer contains:
+
+- Nexora Bio branding
+- Company description
+- Explore navigation
+- Innovation
+- Technology
+- Capabilities
+- Impact
+- Contact
+- Research
+- Careers
+- Copyright information
+- Back-to-top interaction
 
 ---
 
 ## Features
 
-- Premium biotechnology-inspired visual design
-- Responsive desktop, tablet, and mobile layouts
+- Premium biotechnology-inspired visual identity
+- Original landing page design
+- Fully responsive layout
+- Desktop, tablet, and mobile support
 - Smooth scrolling navigation
 - Animated hero section
 - Interactive scientific visual elements
-- Innovation / About section
-- Technology / Research section
-- Capabilities section
-- Impact and statistics section
-- Final CTA section
-- Responsive footer
+- Biological network visualizations
+- Orbital animations
+- Molecular-inspired nodes
+- Animated signal systems
+- Research dashboard elements
+- Statistics and data visualization
 - Hover micro-interactions
-- CSS-based scientific animations
-- Reduced-motion accessibility support
+- Button animations
+- Card transitions
+- Responsive navigation
+- Final CTA section
+- Premium responsive footer
+- CSS-based animations
+- Accessibility-focused reduced-motion support
 - Reusable React components
-- TypeScript-based development
+- TypeScript development
 
 ---
 
-## Sections
+## Design Approach
 
-### 01 — Innovation
+The design is based on the concept of a futuristic biological intelligence platform.
 
-Introduces the Nexora Bio approach and explains how biological science, computation, and engineering are combined.
-
-### 02 — Technology / Research
-
-Presents computational biology, molecular engineering, and AI-driven discovery through an interactive research-oriented interface.
-
-### 03 — Capabilities
-
-Highlights biological intelligence, precision engineering, discovery systems, and research intelligence.
-
-### 04 — Impact
-
-Visualizes measurable research progress through data points, molecules, model accuracy, and research systems.
-
-### 05 — The Next Frontier
-
-A final call-to-action encouraging users to explore Nexora Bio's scientific vision.
-
----
-
-## Design & Animation Approach
-
-The design was created around the concept of a futuristic biological intelligence system.
+The interface combines scientific research aesthetics with modern product-design principles.
 
 ### Visual Language
 
-The interface combines:
+The visual system includes:
 
-- Deep biological green backgrounds
-- Soft green scientific highlights
+- Dark scientific backgrounds
+- Biological green highlights
 - Technical grid patterns
 - Circular orbital systems
-- Molecular-inspired nodes
+- Molecular nodes
 - Signal lines
+- Research indicators
 - Scientific dashboard elements
-- Minimal typography
-- High-contrast data presentation
+- Large editorial typography
+- High-contrast metrics
+- Minimal navigation
+- Structured spacing
+- Responsive layouts
 
-The goal was to make the interface feel like a combination of a biotechnology research platform and a premium scientific technology company.
+The objective is to make the website feel like a premium biotechnology research company rather than a conventional marketing template.
 
-### Animation
+---
 
-Animations are primarily implemented with CSS to keep the experience lightweight and performant.
+## Animation Approach
 
-The project includes:
+The website uses lightweight CSS-based animation and interactive UI transitions.
+
+Animation elements include:
 
 - Floating biological elements
 - Rotating orbital rings
 - Pulsing system cores
 - Moving signal lines
 - Floating data nodes
-- Hover transitions
-- Interactive cards
+- Research indicators
+- Card hover transitions
 - Button micro-interactions
 - Smooth scrolling
-- Reduced-motion support
+- Navigation interactions
+- Back-to-top interaction
 
-The animations are designed to support the content rather than distract from it.
+Animations are intentionally subtle and are designed to support the scientific storytelling instead of distracting from the content.
+
+### Accessibility
+
+The project includes reduced-motion support so users who prefer reduced animation can still comfortably use the website.
+
+---
+
+## Responsive Design
+
+The website is designed to work across:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+Layouts, typography, spacing, navigation, cards, scientific visualizations, and footer elements adapt to different screen sizes.
 
 ---
 
 ## Tech Stack
 
+### Frontend
+
 - React
 - TypeScript
 - Vite
+
+### Styling
+
 - CSS3
 - Responsive CSS
 - CSS Animations
+- CSS Transitions
 - SVG
+
+### Development Tools
+
+- Node.js
+- npm
 - Git
 - GitHub
+- VS Code
 
 ---
 
@@ -134,6 +225,7 @@ nexora-bio/
 │   └── icons.svg
 │
 ├── src/
+│   │
 │   ├── assets/
 │   │   ├── hero.png
 │   │   ├── react.svg
@@ -160,4 +252,6 @@ nexora-bio/
 ├── tsconfig.json
 ├── tsconfig.app.json
 ├── tsconfig.node.json
-└── vite.config.ts
+├── vite.config.ts
+├── .gitignore
+└── README.md
